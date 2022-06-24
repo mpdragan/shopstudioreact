@@ -1,0 +1,30 @@
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+    ;
+}
+
+.shop__content-catalog_title{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    color:rgb(240, 12, 80);
+}
+
+.shop__content-catalog_ul li{
+    font-size: 22px;
+    color:rgb(238, 16, 16);
+    line-height: 35px;
+}
+
+.shop__content-catalog_ul li a{
+    
+    color: rgb(219, 16, 238);
+    ;
+}
+
+.section-main{
+    display: flex;
+}
